@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "目标": "ES2018",
+    "模块": "ESNext",
+    "jsx": "react-jsx",
+    "严格": 正确,
+    "moduleResolution": "节点",
+    "esModuleInterop": 正确,
+    "skipLibCheck": 正确,
+    "noEmit": 正确
+  },
+  "包括": ["src"]
+}
